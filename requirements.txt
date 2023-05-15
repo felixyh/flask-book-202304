@@ -3,3 +3,5 @@ markupsafe==2.0.1
 flask-script
 flask-bootstrap
 flask-wtf
+flask-sqlalchemy
+SQLAlchemy==1.4
