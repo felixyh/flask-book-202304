@@ -2,3 +2,4 @@ flask==1.1.4
 markupsafe==2.0.1
 flask-script
 flask-bootstrap
+flask-wtf
